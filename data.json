@@ -1,0 +1,8 @@
+{
+ "chef_environment": "production",
+    "geoip": {
+        "UserId" : "<UserId fro geoip>",
+        "LicenseKey" : "<License Key fro Geoip>",
+        "ProductIds" : "<ProductIds for Geoip"
+    }
+}

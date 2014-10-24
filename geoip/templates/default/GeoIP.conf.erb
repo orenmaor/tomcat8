@@ -1,0 +1,5 @@
+# GeoIP.conf file - used by geoipupdate program to update databases
+# from http://www.maxmind.com
+UserId <%= node[:geoip][:UserId] %>
+LicenseKey <%= node[:geoip][:LicenseKey] %>
+ProductIds <%= node[:geoip][:ProductIds] %>
